@@ -1,5 +1,5 @@
 import requests
-
+#git测试2
 def get_today_fish_prices():
     url = "http://www.xinfadi.com.cn/getPriceData.html"
 
